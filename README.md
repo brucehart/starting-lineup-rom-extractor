@@ -2,6 +2,10 @@
 
 Arduino Mega 2560 firmware for reading a Starting Lineup Talking Baseball cartridge ROM and streaming it over USB serial.
 
+## Status
+
+This project is still under development and has not been tested on real hardware yet.
+
 ## Sketch Layout
 
 Open the sketch in:
